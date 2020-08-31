@@ -104,9 +104,9 @@
                                     <h4>Games</h4>
                                 </a>
                                 <div class="line-dec"></div>
-                                <p>There are somne great games available to help teach you CSS in a fun and interactive
+                                <p>There are some great games available to help teach you CSS in a fun and interactive
                                     way.</p>
-                                <p>This is a great way to practice writing code</p>
+                                <p>These give perfect practice to writing code</p>
                                 <br>
                                 <p>It's fun too!</p>
                             </div>
@@ -270,13 +270,13 @@
                         </section>
 
                         <ul class="tabs clearfix" data-tabgroup="video-tab-group">
-                            <li><a href="#vid1" class="active">FreeCodeCamp</a></li>
-                            <li><a href="#vid2">Traversy Media</a></li>
-                            <li><a href="#vid3">Programming with Mosh</a></li>
-                            <li><a href="#vid4">Clever Programmer</a></li>
-                            <li><a href="#vid5">Chris Hawkes</a></li>
-                            <li><a href="#vid6">Colt Steele</a></li>
-                            <li><a href="#vid7">The Net Ninja</a></li>
+                            <li><a href="#vid1" class="active">Coming soon</a></li>
+                            <li><a href="#vid2">Coming soon</a></li>
+                            <li><a href="#vid3">Coming soon</a></li>
+                            <li><a href="#vid4">Coming soon</a></li>
+                            <li><a href="#vid5">Coming soon</a></li>
+                            <li><a href="#vid6">Coming soon</a></li>
+                            <li><a href="#vid7">Coming soon</a></li>
                         </ul>
                     </div>
                 </div>
@@ -358,31 +358,19 @@
 
     <script>
         $(document).ready(function () {
-            // Add smooth scrolling to all links
             $(".fixed-side-navbar a, .primary-button a").on('click', function (event) {
-
-                // Make sure this.hash has a value before overriding default behavior
                 if (this.hash !== "") {
-                    // Prevent default anchor click behavior
                     event.preventDefault();
-
-                    // Store hash
                     var hash = this.hash;
-
-                    // Using jQuery's animate() method to add smooth page scroll
-                    // The optional number (800) specifies the number of milliseconds it takes to scroll to the specified area
                     $('html, body').animate({
                         scrollTop: $(hash).offset().top
                     }, 800, function () {
-
-                        // Add hash (#) to URL when done scrolling (default click behavior)
                         window.location.hash = hash;
                     });
-                } // End if
+                }
             });
         });
     </script>
-
 </body>
 
 </html>

@@ -172,7 +172,7 @@ a:hover {
 .baner-content {
   padding-top: 20vh;
   text-align: center;
-  background-image: url(../img/1st-section.jpg);
+  background-image: url(../img/3rd-section.jpg);
 }
 
 .baner-content h1 {
@@ -206,7 +206,7 @@ a:hover {
   padding-left: 15px;
   padding-right: 15px;
   padding-top: 15vh;
-  background-image: url(https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80);
+  background-image: url(../img/code.jpg);
   min-height: 100vh;
   background-size: cover;
   background-position: center center;
@@ -314,7 +314,7 @@ h4,
 
 .course-content {
   padding-top: 15vh;
-  background-image: url(https://images.unsplash.com/photo-1523437113738-bbd3cc89fb19?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80);
+  background-image: url();
 }
 
 .course-content .item img,
@@ -374,7 +374,7 @@ h4,
   padding-left: 15px;
   padding-right: 15px;
   padding-top: 8vh;
-  background-image: url(../img/4th-section.jpg);
+  background-image: url(../img/code.jpg);
   background-attachment: fixed;
   min-height: 100vh;
   background-size: cover;
@@ -440,7 +440,7 @@ section {
 /* ----- CHALLENGES ----- */
 
 .challenge-content {
-  background-image: url(../img/code2.jpg);
+  background-image: url();
   padding-top: 15vh;
 }
 
@@ -448,7 +448,7 @@ section {
 
 #games {
   padding-top: 10vh;
-  background-image: url(../img/5th-section.jpg);
+  background-image: url();
   background-position: center;
   height: 100vh;
 }
@@ -457,7 +457,7 @@ section {
 
 #ajax {
   padding-top: 10vh;
-  background-image: url(../img/code2.jpg);
+  background-image: url();
   background-position: center;
   height: 100vh;
 }
