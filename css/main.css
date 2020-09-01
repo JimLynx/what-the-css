@@ -314,7 +314,7 @@ h4,
 
 .course-content {
   padding-top: 15vh;
-  background-image: url();
+  background-image: url(../img/repeat.png);
 }
 
 .course-content .item img,
@@ -448,7 +448,7 @@ section {
 
 #games {
   padding-top: 10vh;
-  background-image: url();
+  background-image: url(../img/repeat.png);
   background-position: center;
   height: 100vh;
 }
