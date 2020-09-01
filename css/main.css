@@ -319,7 +319,8 @@ h4,
 
 .course-content {
   padding-top: 15vh;
-  background-image: url(../img/repeat.png);
+  background-image: url(../img/carbon2.png);
+  background-size: 2%;
 }
 
 .course-content .item img,
@@ -452,8 +453,9 @@ section {
 /* ----- GAMES ----- */
 
 #games {
-  background-image: url(../img/repeat.png);
-  background-position: center;
+  padding-top: 15vh;
+  background-image: url(../img/carbon2.png);
+  background-size: 2%;
 }
 
 /* ----- AJAX ----- */
