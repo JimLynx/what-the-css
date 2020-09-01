@@ -11,6 +11,7 @@ h2 {
   text-align: center;
   background-color: #ff7d27;
   padding: 15px;
+  margin: 30px 0;
 }
 
 p {
@@ -206,6 +207,7 @@ a:hover {
   padding-left: 15px;
   padding-right: 15px;
   padding-top: 15vh;
+  padding-bottom: 15vh;
   background-image: url(../img/code.jpg);
   min-height: 100vh;
   background-size: cover;
@@ -310,6 +312,9 @@ h4,
   margin-bottom: 30px;
 }
 
+.card {
+  margin: 50px auto;
+}
 /* ----- COURSES ----- */
 
 .course-content {
@@ -447,10 +452,8 @@ section {
 /* ----- GAMES ----- */
 
 #games {
-  padding-top: 10vh;
   background-image: url(../img/repeat.png);
   background-position: center;
-  height: 100vh;
 }
 
 /* ----- AJAX ----- */
@@ -467,7 +470,7 @@ section {
 footer {
   text-align: center;
   background-color: #282b2f;
-  padding: 70px 0px;
+  padding: 50px 0px;
 }
 
 footer .primary-button {
@@ -517,6 +520,9 @@ footer em {
   color: #ff8e43;
   font-weight: 600;
   font-style: normal;
+}
+.lynxlogo {
+  height: 30px;
 }
 
 @media (max-width: 767px) {
