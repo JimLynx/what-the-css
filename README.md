@@ -1,4 +1,4 @@
-Live site hosted at [WHAT THE CSS???]("")
+Live site hosted at [WHAT THE CSS???]("https://jimlynx.github.io/what-the-css/")
 
 ## Credits
 
